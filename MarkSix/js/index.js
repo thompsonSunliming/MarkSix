@@ -3,7 +3,7 @@
 	var scrollTopcount = 0;
 	(function(){
 		$('.MarkSix-table').bind('contextmenu',function(e){
-			//return false;
+			return false;
 		});
 		$(document).bind('selectstart',function(e){
 			return false;
