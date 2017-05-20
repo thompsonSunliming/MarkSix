@@ -1,0 +1,744 @@
+<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+  <link rel="stylesheet" type='text/css' href="css/MarkSix.css">
+ </head>
+ <body>
+	<div id='MarkSix'>
+		<!--Top start-->
+		<div class='MarkSix-top'>
+			<div class='MarkSix-top-record'>
+				<div class='record-click'></div>
+				<div class='record-show'>
+					<div class='record-show-head'></div>
+					<div class="record-show-body">
+						<table>
+							<tbody>
+								<tr>
+									<td class='record-issue'>1347</td>
+									<td class='record-state'>未中奖</td>
+									<td class='record-buyMoney'>22</td>
+									<td class='record-getMoney'>1</td>
+									<td class='record-look'>
+										<div class='record-look-exp'></div>
+									</td>
+								</tr>
+								<tr>
+									<td class='record-issue'>1347</td>
+									<td class='record-state'>未中奖</td>
+									<td class='record-buyMoney'>22</td>
+									<td class='record-getMoney'>2</td>
+									<td class='record-look'>
+										<div class='record-look-exp'></div>
+									</td>
+								</tr>
+								<tr>
+									<td class='record-issue'>1347</td>
+									<td class='record-state'>未中奖</td>
+									<td class='record-buyMoney'>22</td>
+									<td class='record-getMoney'>3</td>
+									<td class='record-look'>
+										<div class='record-look-exp'></div>
+									</td>
+								</tr>
+								<tr>
+									<td class='record-issue'>1347</td>
+									<td class='record-state'>未中奖</td>
+									<td class='record-buyMoney'>22</td>
+									<td class='record-getMoney'>4</td>
+									<td class='record-look'>
+										<div class='record-look-exp'></div>
+									</td>
+								</tr>
+								<tr>
+									<td class='record-issue'>1347</td>
+									<td class='record-state'>未中奖</td>
+									<td class='record-buyMoney'>22</td>
+									<td class='record-getMoney'>5</td>
+									<td class='record-look'>
+										<div class='record-look-exp'></div>
+									</td>
+								</tr>
+								<tr>
+									<td class='record-issue'>1347</td>
+									<td class='record-state'>未中奖</td>
+									<td class='record-buyMoney'>22</td>
+									<td class='record-getMoney'>6</td>
+									<td class='record-look'>
+										<div class='record-look-exp'></div>
+									</td>
+								</tr>
+								<tr>
+									<td class='record-issue'>1347</td>
+									<td class='record-state'>未中奖</td>
+									<td class='record-buyMoney'>22</td>
+									<td class='record-getMoney'>7</td>
+									<td class='record-look'>
+										<div class='record-look-exp'></div>
+									</td>
+								</tr>
+								<tr>
+									<td class='record-issue'>1347</td>
+									<td class='record-state'>未中奖</td>
+									<td class='record-buyMoney'>22</td>
+									<td class='record-getMoney'>8</td>
+									<td class='record-look'>
+										<div class='record-look-exp'></div>
+									</td>
+								</tr>
+								<tr>
+									<td class='record-issue'>1347</td>
+									<td class='record-state'>未中奖</td>
+									<td class='record-buyMoney'>22</td>
+									<td class='record-getMoney'>9</td>
+									<td class='record-look'>
+										<div class='record-look-exp'></div>
+									</td>
+								</tr>
+							</tbody>
+						</table>
+						<div class='page-scallBar'>
+							<div class="page-scallBar-dragBar"></div>
+						</div>
+					</div>
+					<div class='record-show-more'>
+						<a href="">查看更多投注记录</a>
+					</div>
+					<div class='record-show-close'></div>
+				</div>
+			</div>
+			<div class='MarkSix-top-time'>
+				<div class='record-date'>2017022</div>
+				<div class='record-time'>03:00:00</div>
+				<div class='record-issue'>2017021期</div>
+				<div class='record-numbers'>
+					<ul class='record-box'>
+						<li class='color-red record-num-one'>10</li>
+						<li class='color-green record-num-two'>10</li>
+						<li class='color-blue record-num-three'>10</li>
+						<li class='color-red record-num-four'>10</li>
+						<li class='color-green record-num-five'>10</li>
+						<li class='color-blue record-num-six'>10</li>
+						<li class='color-red record-num-seven'>10</li>
+					</ul>
+				</div>
+			</div>
+			<div class='MarkSix-top-newOpen'>
+				<div class='newOpen-show'>
+					<div class="newOpen-show-topClose"></div>
+					<table class='newOpen-show-content'>
+						<tbody>
+							<tr>
+								<td class='newOpen-issue'>2017041</td>
+								<td>
+									<div class='color-red newOpen-num'>19</div>
+								</td>
+								<td>
+									<div class='color-red newOpen-num'>11</div>
+								</td>
+								<td>
+									<div class='color-red newOpen-num'>11</div>
+								</td>
+								<td>
+									<div class='color-red newOpen-num'>11</div>
+								</td>
+								<td>
+									<div class='color-red newOpen-num'>11</div>
+								</td>
+								<td>
+									<div class='color-red newOpen-num'>11</div>
+								</td>
+								<td>
+									<div class='color-red newOpen-num'>11</div>
+								</td>
+								<td class='newOpen-date'>2017-04-08</td>
+							</tr>
+
+						</tbody>
+					</table>
+					<a href="javascript:void(0);" class='newOpen-show-more'>查看完整走势</a>
+					<div class='newOpen-show-close'></div>
+				</div>
+			</div>
+		</div>
+		<!--top end-->
+
+		<!--table start-->
+		<div class='MarkSix-table'>
+			<!--table one start-->
+			<div class='MarkSix-table-one table-container' style='display:block;'>
+				<div class='table-row1'>
+				</div>
+				<div class='table-row2'>
+				</div>
+				<div class='table-row3'>
+					<div class='row1_49 tmItem' chip-text='一码不定位' date-type="49">
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='row3_large large-red' chip-text="特码色波红" animalnum='1|2|7|8|12|13|18|19|23|24|29|30|34|35|40|45|46'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='row3_large large-green' chip-text="特码色波绿" animalnum='5|6|11|16|17|21|22|27|28|32|33|38|39|43|44|49'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='row3_large large-blue' chip-text="特码色波蓝" animalnum='3|4|9|10|14|15|20|25|26|31|36|37|41|42|47|48'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+				</div>
+				<div class='table-help-item tmHelp'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						玩家所投号码为该期开奖号码，视为中奖，其余情形视为不中奖
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注号码为1，特码开奖号也为1，则本期玩家中奖，其余不中奖。
+					</div>
+				</div>
+				<div class='table-help-item sxHelp'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						以指定出现特码的位置生肖下注，开奖之生肖与下注之生肖相同时，视为中奖，其余情形视为不中奖
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投生肖羊，特码号码为羊，则玩家中奖。
+					</div>
+				</div>
+				<div class='table-help-item cbHelp-red'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						以指定出现特码的位置的球色下注，开奖之球色与下注之颜色相同时，视为中奖，其余情形视为不中奖。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投色波红胆，特码开奖为红胆，则玩家中奖。
+					</div>
+				</div>
+				<div class='table-help-item cbHelp-green'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						以指定出现特码的位置的球色下注，开奖之球色与下注之颜色相同时，视为中奖，其余情形视为不中奖。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投色波绿胆，特码开奖为绿胆，则玩家中奖。
+					</div>
+				</div>
+				<div class='table-help-item cbHelp-blue'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						以指定出现特码的位置的球色下注，开奖之球色与下注之颜色相同时，视为中奖，其余情形视为不中奖。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投色波蓝胆，特码开奖为蓝胆，则玩家中奖。
+					</div>
+				</div>
+			</div>
+			<!--table one end-->
+
+			<!--table two start-->
+			<div class='MarkSix-table-two table-container'>
+				<div class='table-row4'>
+					<div class="cell-0 wsItem" chip-text='特码尾数' date-type='0'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class="cell-1 wsItem" chip-text='特码尾数' date-type='1'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class="cell-2 wsItem" chip-text='特码尾数' date-type='2'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class="cell-3 wsItem" chip-text='特码尾数' date-type='3'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class="cell-4 wsItem" chip-text='特码尾数' date-type='4'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class="cell-5 wsItem" chip-text='特码尾数' date-type='5'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class="cell-6 wsItem" chip-text='特码尾数' date-type='6'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class="cell-7 wsItem" chip-text='特码尾数' date-type='7'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class="cell-8 wsItem" chip-text='特码尾数' date-type='8'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class="cell-9 wsItem" chip-text='特码尾数' date-type='9'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+				</div>
+				<div class='table-row5 table-cell'>
+					<div class='cell-1 dsItem' chip-text='特码尾数单'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='cell-2 dsItem' chip-text='特码尾数双'>
+							<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='cell-3 dsItem' chip-text='特码单'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='cell-4 dsItem' chip-text='特码双'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+				</div>
+				<div class='table-row6 table-cell dsHelp'>
+					<div class='cell-1 bsItem' chip-text='特码尾数大'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='cell-2 bsItem' chip-text='特码大'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='cell-3 bsItem' chip-text='特码尾数小'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='cell-4 bsItem' chip-text='特码小'>
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+				</div>
+				<div class='table-help-item wsHelp'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						开奖号码尾数和玩家所投号码一致时，则中奖，其余不中奖。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投特码尾数为0，则特码开奖号尾数为0，玩家中奖。
+					</div>
+				</div>
+				<div class='table-help-item dsHelp-1'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						开奖号码尾数为单数（1/3/5/7/9），且玩家投注为单数时，玩家中奖，其余不中奖。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投特码尾数为1，则特码开奖号尾数为1，玩家中奖。
+					</div>
+				</div>
+				<div class='table-help-item dsHelp-2'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						开奖号码尾数为双数（0/2/4/6/8），且玩家投注为双数时，玩家中奖，其余不中奖。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投特码尾数为0，则特码开奖号尾数为0，玩家中奖。
+					</div>
+				</div>
+				<div class='table-help-item dsHelp-3'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						特码为双数叫特双，如8、16；特码为单数叫特单，如21、35，开出49为和（退回本金）。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注23，开奖号码23，则玩家中奖。
+					</div>
+				</div>
+				<div class='table-help-item dsHelp-4'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						特码为双数叫特双，如8、16；特码为单数叫特单，如21、35，开出49为和（退回本金）。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注28，开奖号码28，则玩家中奖。
+					</div>
+				</div>
+				<div class='table-help-item bsHelp-1'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						开奖号码尾数为5-9，则为大。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注为大时，开奖号码为5—9时，玩家中奖，其余不中奖。
+					</div>
+				</div>
+				<div class='table-help-item bsHelp-2'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						开奖号码尾数为0-4，则为小。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注为小时，开奖号码为0—4时，玩家中奖，其余不中奖。 
+					</div>
+				</div>
+				<div class='table-help-item bsHelp-3'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						开出之特码大于或等于25为特码大， 小于或等于24为特码小，开出49为和（退回本金）。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注27，开奖号码27，则玩家中奖。 
+					</div>
+				</div>
+				<div class='table-help-item bsHelp-4'>
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						开出之特码大于或等于25为特码大， 小于或等于24为特码小，开出49为和（退回本金）。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注12，开奖号码12，则玩家中奖。 
+					</div>
+				</div>
+			</div>
+			<!--table two end-->
+
+			<!--table three start-->
+			<div class='MarkSix-table-three table-container'>
+				<div class='table-row7'>
+				</div>
+				<div class='table-row8'>
+					<div class='cell-1 dxdsItem' chip-text="正一码大">
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='cell-2 dxdsItem' chip-text="正一码小">
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='cell-3 dxdsItem' chip-text="正一码单">
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+					<div class='cell-4 dxdsItem' chip-text="正一码双">
+						<span class="title">
+							<span class="title-text">0.00</span>
+							<span class="title-arrow"></span>
+						</span>
+					</div>
+				</div>
+				<div class='row1_49 zmItem' chip-text="一码不定位" date-type="49">
+					<span class="title">
+						<span class="title-text">0.00</span>
+						<span class="title-arrow"></span>
+					</span>
+				</div>
+				<div class="table-help-item zmHelp">
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						玩家选出1个号码，只要6个正码中出现该号码，则为中奖。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投07，则6个正码里面只要出现07，则玩家中奖。 
+					</div>
+				</div>
+				<div class="table-help-item daHelp">
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						正一码大于或等于25为正一码大， 小于或等于24为正一码小，开出49为和（退回本金）
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注27，开奖号码27，则玩家中奖。 
+					</div>
+				</div>
+				<div class="table-help-item xiaoHelp">
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						正一码大于或等于25为正一码大， 小于或等于24为正一码小，开出49为和（退回本金）
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注12，开奖号码12，则玩家中奖。 
+					</div>
+				</div>
+				<div class="table-help-item danHelp">
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						正一码为双数叫正一码双，如8、16；特码为单数叫正一码单，如21、35，开出49为和（退回本金）。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注23，开奖号码23，则玩家中奖。 
+					</div>
+				</div>
+				<div class="table-help-item shuangHelp">
+					<div class='help-text'>
+						<span class='help-text-title'>【特码】：</span>
+						正一码为双数叫正一码双，如8、16；特码为单数叫正一码单，如21、35，开出49为和（退回本金）。
+						<br />
+						<span class='help-text-title'>【实例】：</span>
+						玩家投注28，开奖号码28，则玩家中奖。  
+					</div>
+				</div>
+			</div>
+			<!--table three end-->
+		</div>
+		<!--table end-->
+		<!--btnGroup start-->
+		<div class='MarkSix-btnGroup'>
+			<div class='MarkSix-btnGroup-tm1 MarkSix-btnGroup-btn MarkSix-btnGroup-active'></div>
+			<div class='MarkSix-btnGroup-tm2 MarkSix-btnGroup-btn'></div>
+			<div class='MarkSix-btnGroup-zm MarkSix-btnGroup-btn'></div>
+		</div>
+		<!--btnGroup end-->
+		<!--controller start-->
+		<div class='MarkSix-controller clearFixed'>
+			<div class='option-btn'>
+				<div class="option-btn-cancel"></div>
+				<div class="option-btn-clear"></div>
+			</div>
+			<div class='option-weight'>
+				<div class='chip chip-1 chip-selected' chip-value='1' select='true' draggable='false'></div>
+				<div class='chip chip-2' chip-value='2' ></div>
+				<div class='chip chip-5' chip-value='5' ></div>
+				<div class='chip chip-10' chip-value='10'></div>
+				<div class='chip chip-20' chip-value='20'></div>
+			</div>
+			
+			<div class='option-weight-hide'>
+				<div class='hide-main'>
+					<div chip-value="2000" icon="chip_11" class="chip_11 chip">
+					</div>
+					<div chip-value="5000" icon="chip_12" class="chip_12 chip" ></div>
+					<div chip-value="10000" icon="chip_13" class="chip_13 chip" ></div>
+					<div chip-value="20000" icon="chip_14" class="chip_14 chip" ></div>
+					<div chip-value="50000" icon="chip_15" class="chip_15 chip" ></div>
+					<div chip-value="50" icon="chip_6" class="chip_6 chip" ></div>
+					<div chip-value="100" icon="chip_7" class="chip_7 chip" ></div>
+					<div chip-value="200" icon="chip_8" class="chip_8 chip" ></div>
+					<div chip-value="500" icon="chip_9" class="chip_9 chip" ></div>
+					<div chip-value="1000" icon="chip_10" class="chip_10 chip" ></div>
+					<div chip-value="1" select="true" icon="chip_1" class="chip_1 chip select-active">
+					</div>
+					<div chip-value="2" icon="chip_2" class="chip_2 chip"></div>
+					<div chip-value="5" icon="chip_3" class="chip_3 chip"></div>
+					<div chip-value="10" icon="chip_4" class="chip_4 chip"></div>
+					<div chip-value="20" icon="chip_5" class="chip_5 chip"></div>
+				</div>
+				<div class='hide-close'></div>
+			</div>
+			
+			<div class='option-btn2'>
+				<div class='option-btn-more'></div>
+				<div class='option-btn-confirm'></div>
+				<div class='option-btn-zhuihao'></div>
+			</div>
+			<div class='option-money'>
+				<div class='option-money-pour'>0.00</div>
+				<div class='option-money-balance'>101,478.608</div>
+			</div>
+		</div>
+		<!--controller end-->
+	</div>
+	<div class='layer-page chip-confirm'>
+		<div class='page-title'>确定加入<span class='page-title-issue'>0</span></div>
+		<div class='page-body'>
+			<div class='page-body-left'>选号明细</div>
+			<div class='page-body-right'>
+				<table>
+					<tbody></tbody>
+				</table>
+				<div class='page-scallBar'>
+					<div class="page-scallBar-dragBar"></div>
+				</div>
+			</div>
+		</div>
+		<div class='page-money'>总投注金额<span>￥</span><span class='page-money-sum'>1.00</span>元</div>
+		<div class="page-option">
+			<div class='page-option-ok'></div>
+			<div class='page-option-cancel'></div>
+		</div>
+	</div>
+	<div class='confirm-tip'>
+		请投注具体金额
+	</div>
+	<!-- 追号 start -->
+	<div class='layer-page chip-zhuihao'>
+		<div class='zhuihao-title'>追号设置</div>
+		<div class='zhuihao-isStopGo'><input type="checkbox" checked='checked'>中奖后停止追号</div>
+		<div class='zhuihao-content'>
+			<div class='zhuihao-content-head clearFixed'>
+				<div class='head-num'>序号</div>
+				<div class='head-select'>选择</div>
+				<div class='head-periods'>追号期数</div>
+				<div class='head-money'>金额</div>
+				<div class='head-time'>开奖时间</div>
+			</div>
+			<div class='zhuihao-content-body'>
+				<table>
+					<tbody>
+					</tbody>
+				</table>
+				<div class='page-scallBar'>
+					<div class="page-scallBar-dragBar"></div>
+				</div>
+			</div>
+		</div>
+		<div class='zhuihao-info'>共追号<span class='zhuihao-info-periods'>0</span>期，总投注金额<span>￥<span class='zhuihao-info-money'>0</span>.00</span>元</div>
+		<div class='zhuihao-option'>
+			<div class='zhuihao-option-ok'></div>
+			<div class='zhuihao-option-cancel'></div>
+		</div>
+	</div>
+	<!-- 追号 end -->
+
+	<!-- 查看完整走势 start -->
+	<div class='layer-page chip-moreList'>
+		<div class='moreList-title'>开奖历史</div>
+		<div class='moreList-body'>
+			<div class='moreList-body-title clearFixed'>
+				<div class='title-issue'>期号</div>
+				<div class='title-num'>特</div>
+				<div class='title-num'>一</div>
+				<div class='title-num'>二</div>
+				<div class='title-num'>三</div>
+				<div class='title-num'>四</div>
+				<div class='title-num'>五</div>
+				<div class='title-num'>六</div>
+				<div class='title-time'>开奖时间</div>
+			</div>
+			<div class='moreList-body-histroy'>
+				<table>
+					<tbody></tbody>
+				</table>
+				<div class='page-scallBar'>
+					<div class="page-scallBar-dragBar"></div>
+				</div>
+			</div>
+		</div>
+		<div class='moreList-option'>
+			<div class='moreList-close'></div>
+		</div>
+	</div>
+	<!-- 查看完整走势 end -->
+
+	<!--注单 start-->
+	<div class='layer-page chip-singleNode'>
+		<div class='singleNode-title'>查看投注记录</div>
+		<div class='singleNode-body'>
+			<table class='singleNode-body-content'>
+				<tr>
+					<td class='node-label'>会员名</td>
+					<td class='node-name'>Thompson</td>
+					<td class='node-label'>状态</td>
+					<td class='node-state'>未开奖</td>
+				</tr>
+				<tr>
+					<td class='node-label'>注单编号</td>
+					<td class='node-num'>B170414041435257940</td>
+					<td class='node-label'>状态</td>
+					<td class='node-time'>2017-04-14 04:14:35</td>
+				</tr>
+				<tr>
+					<td class='node-label'>六合彩</td>
+					<td class='node-gameNum'>B170414041435257940</td>
+					<td class='node-label'>状态</td>
+					<td class='node-issue'>2017044</td>
+				</tr>
+				<tr>
+					<td class='node-label large'>选号明细</td>
+					<td colspan='3'>
+						<div class='singleNodenode-body-large'>
+							<table>
+								<tbody></tbody>
+							</table>
+							<div class='page-scallBar'>
+								<div class="page-scallBar-dragBar"></div>
+							</div>
+						</div>
+					</td> 
+				</tr>
+				<tr>
+					<td class='node-label'>下注金额</td>
+					<td class='node-spendMoney'>￥1</td>
+					<td class='node-label'>开奖号码</td>
+					<td class='node-lotteryNumbe'>2017044</td>
+				</tr>
+				<tr>
+					<td class='node-label'>中奖注数</td>
+					<td class='node-lotteryCount'>0注</td>
+					<td class='node-label'>奖金</td>
+					<td class='node-bonus'>￥0</td>
+				</tr>
+				<tr>
+					<td class='node-label'>是否追号</td>
+					<td class='node-isZhuihao'>否</td>
+					<td class='node-label'>追号编号</td>
+					<td class='node-zhuihaoNum'></td>
+				</tr>
+			</table>
+		</div>
+		<div class='singleNode-option'>
+			<div class='singleNode-cancel'></div>
+			<div class='singleNode-close'></div>
+		</div>
+	</div>
+	<!--注单 end-->
+	<script type="text/javascript" src='js/jquery-1.11.3.js'></script>
+	<script type="text/javascript" src='js/layer.js'></script>
+	<script type="text/javascript" src='js/index.js'></script>
+ </body>
+</html>
+
